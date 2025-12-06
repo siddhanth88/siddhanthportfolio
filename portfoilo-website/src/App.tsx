@@ -196,7 +196,7 @@ function App() {
           <div className="relative animate-float">
             <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-2xl blur-2xl opacity-20"></div>
             <img
-              src="/IMG_20250829_234640.jpg"
+              src="/"
               alt="Siddhanth Remma"
               className="relative rounded-2xl shadow-2xl border-4 border-slate-700/50 w-full max-w-md mx-auto transform hover:scale-105 transition-transform duration-500"
             />
