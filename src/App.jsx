@@ -38,6 +38,21 @@ function App() {
         'Production deployment on Netlify'
       ]
     },
+
+    {
+      title: 'OTD-Solutions (On Time Delivery) - Transports & Logistics Website',
+      company: 'Deployed on Netlify',
+      period: '2025',
+      tags: ['React', 'TypeScript', 'JavaScript', 'Netlify'],
+      description: 'Transports & Logistics Website.',
+      link: 'https://otdsolutions.netlify.app/',
+      github: 'https://github.com/siddhanth88/otd-solutions1',
+      highlights: [
+        'Modern responsive design & Animations',
+        'TypeScript implementation',
+        'Production deployment on Netlify'
+      ]
+    },
     {
       title: 'CNC Machine Real-Time Monitoring System',
       company: 'IIT Bombay',
