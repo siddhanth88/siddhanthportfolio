@@ -35,7 +35,8 @@ function App() {
       highlights: [
         'Modern responsive design',
         'TypeScript implementation',
-        'Production deployment on Netlify'
+        'Production deployment on Netlify',
+        'Optimized for both desktop and mobile viewing'
       ]
     },
 
@@ -50,9 +51,65 @@ function App() {
       highlights: [
         'Modern responsive design & Animations',
         'TypeScript implementation',
-        'Production deployment on Netlify'
+        'Production deployment on Netlify',
+        'Modern UI/UX with smooth animations and transitions',
+        'Dynamic hero section with custom imagery and branding',
+        'Optimized for both desktop and mobile viewing'
       ]
     },
+    
+    {
+      title: 'RR EVENTS - Event Management Platform',
+      company: 'Open Source',
+      period: '2025',
+      tags: ['React', 'JavaScript', 'Vercel', 'Event Management'],
+      description: 'React-based web application for managing events with modern UI/UX.',
+      github: 'https://github.com/siddhanth88/RR-EVENTS',
+      link: 'https://rr-brown-phi.vercel.app/',
+      highlights: [
+        'Event creation and management',
+        'Apache License 2.0',
+        'React-based architecture',
+        'Fast load times and optimized asset delivery'
+      ]
+    },
+    
+    {
+      title: 'Local Political Campaign Website',
+      company: 'Open Source',
+      period: '2025',
+      tags: ['React', 'JavaScript', 'Netlify', 'Political Candidate Website'],
+      description: 'React-powered campaign website featuring responsive design and dynamic content.',
+      github: 'https://github.com/siddhanth88/maggi-bhai-website',
+      link: 'https://maggibhaiwardno9.online/',
+      highlights: [
+        'Social media integration ready',
+        'Fully responsive design optimized for mobile, and desktop',
+        'Built with React.js and Vite for optimal performance',
+        'Contact section for voter engagement',
+        'Social media integration ready'
+        'Clean Code - Well-documented and organized'
+      ]
+    },
+    
+     {
+      title: 'Full-Stack E-commerce Web Application',
+      company: 'Open Source',
+      period: '2025',
+      tags: ['React', 'JavaScript', 'CSS', 'Vercel', 'Ecommerce Shopping Website'],
+      description: 'Modern React-based e-commerce platform with premium UI/UX and seamless shopping experience.',
+      github: 'https://github.com/siddhanth88/ecommerce',
+      link: 'https://ecomm64.vercel.app/',
+      highlights: [
+        'Social media integration ready',
+        ' Smooth Animations - Fluid transitions and hover effects',
+        'Intuitive Shopping Cart - Easy add/remove with quantity management',
+        'Wishlist Functionality - Save favorite items for later',
+        'Clean Minimal Aesthetic - Professional, distraction-free interface',
+        'Clean Code - Well-documented and organized'
+      ]
+     },
+    
     {
       title: 'CNC Machine Real-Time Monitoring System',
       company: 'IIT Bombay',
@@ -67,20 +124,7 @@ function App() {
         'Real-time HAAS & MAZAK machine monitoring'
       ]
     },
-    {
-      title: 'RR EVENTS - Event Management Platform',
-      company: 'Open Source',
-      period: '2025',
-      tags: ['React', 'JavaScript', 'Event Management'],
-      description: 'React-based web application for managing events with modern UI/UX.',
-      github: 'https://github.com/siddhanth88/RR-EVENTS',
-      link: 'https://rr-brown-phi.vercel.app/',
-      highlights: [
-        'Event creation and management',
-        'Apache License 2.0',
-        'React-based architecture'
-      ]
-    },
+    
     {
       title: 'Food Ordering System',
       company: 'Personal Project',
@@ -94,6 +138,7 @@ function App() {
         'Order management system'
       ]
     },
+    
     {
       title: 'C Calculator in Docker Dev Container',
       company: 'DevOps Project',
@@ -107,6 +152,7 @@ function App() {
         'VS Code Dev Container integration'
       ]
     },
+    
     {
       title: 'JumpSquad E-Commerce Frontend',
       company: 'Personal Project',
