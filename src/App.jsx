@@ -30,7 +30,7 @@ function App() {
       period: '2025',
       tags: ['React', 'TypeScript', 'JavaScript', 'Netlify'],
       description: 'Advanced water purification solutions website for BIOSPN Systems.',
-      link: 'https://biospnhipurity.netlify.app/',
+      link: 'https://biospn22.netlify.app/',
       github: 'https://github.com/siddhanth88/biospn.2',
       highlights: [
         'Modern responsive design',
