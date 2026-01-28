@@ -59,6 +59,7 @@ function App() {
       tags: ['React', 'JavaScript', 'Event Management'],
       description: 'React-based web application for managing events with modern UI/UX.',
       github: 'https://github.com/siddhanth88/RR-EVENTS',
+      link: 'https://rr-brown-phi.vercel.app/',
       highlights: [
         'Event creation and management',
         'Apache License 2.0',
