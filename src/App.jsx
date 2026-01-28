@@ -87,7 +87,7 @@ function App() {
         'Fully responsive design optimized for mobile, and desktop',
         'Built with React.js and Vite for optimal performance',
         'Contact section for voter engagement',
-        'Social media integration ready'
+        'Social media integration ready',
         'Clean Code - Well-documented and organized'
       ]
     },
